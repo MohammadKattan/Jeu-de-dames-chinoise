@@ -1,5 +1,6 @@
 let dim = 3;;
 type case = int * int * int;;
+let test =3;;
 type couleur =
   | Vert
   | Jaune
